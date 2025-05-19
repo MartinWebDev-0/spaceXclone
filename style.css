@@ -120,19 +120,19 @@ font-size: 50px;
 font-weight: 700;
 margin-bottom: 20px;
 animation: fadeInUp 0.5s ease-in-out 0.2s;
-animation-fill-mode: both; //non si vede all'inizio dell'animaizone//
+animation-fill-mode: both; 
 }
 
 
 .section-inner a {
 animation: fadeInUp 0.5s ease-in-out 0.4s;
-animation-fill-mode: both; //non si vede all'inizio dell'animaizone//
+animation-fill-mode: both; 
 
 }
  
 /*background images*/
 .section-a {
-background-image: url('../img/section-a.webp');
+background-image: url('../img/.section-a');
 
 }
 .section-b {
@@ -500,7 +500,7 @@ font-size: 17px;
 
 
 .h1starlink {
-  text-tranform: uppercase;
+  text-transform: uppercase;
   padding: 27px 27px;
 
 
@@ -607,6 +607,7 @@ transform: translateY(0);
 
 
 }
+}
 
 
 
@@ -621,7 +622,7 @@ transform: translateY(0);
   
   
   
-  }
+  
 
 }
 
